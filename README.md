@@ -43,9 +43,9 @@ $hunter->addDomainName('google.com'); //the generated code will work only on goo
 
 > **Note**: you can add multiple domains by adding one by one.
 
-### See the included demo (/original/index.php) for more.
+#### See the included demo (/original/index.php) for more.
 
-### Happy Coding :)
+#### Happy Coding :)
 
 
 ## CHANGE LOG (YYYY/MM/DD)
