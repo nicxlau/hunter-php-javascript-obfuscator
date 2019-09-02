@@ -27,7 +27,7 @@ echo "<script>" . $obsfucated . "</script>";
 
 > **Note**: If your HTML code contains any JS codes please remove any comments in that js code to prevent issues.
 
-##Set expiration time:
+## Set expiration time:
 
 ```php
 $hunter->setExpiration('+10 day'); //Expires after 10 days
