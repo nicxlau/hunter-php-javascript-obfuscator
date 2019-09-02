@@ -1,5 +1,5 @@
 # Hunter - PHP Javascript Obfuscator
-> Protect your JavaScript source code with the simplest and fastest way.
+> :lock: Protect your JavaScript source code with the simplest and fastest way.
 
 ### :squirrel: [Investigate the live demo](https://damidev.000webhostapp.com/)
 
