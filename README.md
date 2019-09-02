@@ -1,6 +1,8 @@
 # Hunter - PHP Javascript Obfuscator
 > Protect your JavaScript source code with the simplest and fastest way.
 
+### :squirrel: [Investigate the live demo](https://damidev.000webhostapp.com/)
+
 ## Requirement
 ```php
 require_once 'HunterObfuscator.php'; //Include the class
